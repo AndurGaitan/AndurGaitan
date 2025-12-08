@@ -35,7 +35,9 @@ Actualmente desarrollo proyectos que combinan ingeniería, IA y práctica clíni
 ## 🌐 Connect with me
 <p align="left">
 <a href="[https://portfolio-su4x.vercel.app/]" target="_blank">
+  🧪
 </a>
 <a href="https://linkedin.com/in/andrés-david-gaitán" target="_blank">
+  🧪
 </a>
 </p>
