@@ -34,10 +34,8 @@ Actualmente desarrollo proyectos que combinan ingeniería, IA y práctica clíni
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="[https://andresgaitandev.io/]" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+<a href="[https://portfolio-su4x.vercel.app/]" target="_blank">
 </a>
 <a href="https://linkedin.com/in/andrés-david-gaitán" target="_blank">
-  <img src="[https://github.com/AndurGaitan/portfolio/blob/f7cedc55fe87b6bbe3f050d71210ec4bddc213b6/src/assets/logokadg.png]" height="30" width="40" />
 </a>
 </p>
